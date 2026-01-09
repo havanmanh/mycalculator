@@ -1,0 +1,16 @@
+.display {
+    font-size: 2rem;
+    margin: 10px;
+    text-align: right;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 15px;
+}
