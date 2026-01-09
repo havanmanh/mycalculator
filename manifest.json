@@ -1,8 +1,10 @@
 {
   "name": "Calculator Ví trả sau",
   "short_name": "Calculator VTS",
-  "start_url": "/",
+  "start_url": "/mycalculator/",
+  "scope": "/mycalculator/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000"
 }
+
